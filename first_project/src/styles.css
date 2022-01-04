@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+.backgroundcolor{
+    background: rgba(0,0,0,0.7)
+}
+.blue{
+    background: blue
+}
+.yellow{
+    background: yellow
+}
+.green{
+    background: green
+}
+.red{
+    background: red
+}
+.pink{
+    background: pink
+}
+.box{
+    box-sizing: border-box;
+    border: 5px solid transparent;
+    background-clip:padding-box;
+  }
